@@ -1,10 +1,14 @@
 # Key Spammer
 
-Was bored so I made this for Lost Ark to spam g 
+Was bored so I made this for Lost Ark to spam g (work with any key)
 
 How it work :
-  Select a key to spam
-  Select a key to stop the spam
+
+  -Select a key to spam
+  
+  -Select a key to stop the spam
+  
+  Select a key by pressing a key and press enter
 
 Enjoy
 
