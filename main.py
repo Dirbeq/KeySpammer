@@ -28,6 +28,6 @@ while True:
         if Spam == True:
             keyboard.press_and_release(KeySpam)
                 
-        time.sleep(0.01)  # time.sleep -> prevent the cpu to explode
+        time.sleep(0.01)  # time.sleep -> Prevents the processor from exploding
     except:
         break
