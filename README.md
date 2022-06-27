@@ -1,4 +1,4 @@
-# Key Spammer [MARCHE BIZZAREMENT]
+# Key Spammer
 
 Was bored so I made this for Lost Ark to spam g (work with any key)
 
